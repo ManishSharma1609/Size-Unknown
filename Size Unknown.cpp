@@ -1,5 +1,5 @@
 /*
-NAME - Manish SharmaG
+NAME - Manish Sharma
 SID - 21102048
 BRANCH - Civil
 */
